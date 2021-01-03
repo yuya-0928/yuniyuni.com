@@ -1,37 +1,37 @@
-baseURL = "https://meik2333.com/"
-languageCode = "zh-cn"
-title = "MeiK's blog"
+baseURL = "https://yuya-0928.github.io/yuniyuni.com/"
+languageCode = "utf8-mb4"
+title = "yuni's blog"
 theme = "github-style"
-googleAnalytics = "UA-123456-789"
+googleAnalytics = "#"
 pygmentsCodeFences = true
 pygmentsUseClasses = true
 publishDir = "docs"
 canonifyurls = true
 
 [params]
-  author = "MeiK"
+  author = "yuni"
   description = "In solitude, where we are least alone."
-  github = "MeiK2333"
-  facebook = "MeiK2333"
-  twitter = "MeiK2333"
-  linkedin = "MeiK2333"
-  instagram = "MeiK2333"
-  tumblr = "MeiK2333"
-  email = "meik2333@gmail.com"
-  url = "https://meik2333.com"
+  github = "https://github.com/yuya-0928"
+  facebook = "#"
+  twitter = "https://twitter.com/hirattchi0928"
+  linkedin = "#"
+  instagram = "#"
+  tumblr = "#"
+  email = "#"
+  url = "https://yuya-0928.github.io/yuniyuni.com/"
   keywords = "blog, google analytics"
   rss = true
   lastmod = true
   favicon = "/images/github.png"
-  location = "China"
+  location = "Japan"
 
   [[params.links]]
     title = "Link"
-    href = "https://github.com/meik2333"
+    href = "https://github.com/yuya-0928"
   [[params.links]]
     title = "Link2"
-    href = "https://meik2333.com"
-    icon = "https://meik2333.com/images/avatar.png"
+    href = "https://yuya-0928.github.io/yuniyuni.com/"
+    icon = "https://yuya-0928.github.io/yuniyuni.com/images/avatar.png"
 
 [frontmatter]
   lastmod = ["lastmod", ":fileModTime", ":default"]
